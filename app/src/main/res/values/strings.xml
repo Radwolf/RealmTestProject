@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmTestProject</string>
+    <string name="status_output">Estado salida</string>
+</resources>

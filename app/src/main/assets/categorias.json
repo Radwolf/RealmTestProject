@@ -1,0 +1,14 @@
+[
+  { "nombre" : "Recibo",
+    "categoriaPadre" : "Gastos"},
+  { "nombre" : "Prestamo",
+    "categoriaPadre" : "Gastos"},
+  { "nombre" : "Seguro",
+    "categoriaPadre" : "Gastos"},
+  { "nombre" : "Hipoteca",
+    "categoriaPadre" : "Prestamo"},
+  { "nombre" : "Vida",
+    "categoriaPadre" : "Seguro"},
+  { "nombre" : "Luz",
+    "categoriaPadre" : "Recibo"}
+]
